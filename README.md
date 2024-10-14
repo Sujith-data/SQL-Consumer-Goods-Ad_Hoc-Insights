@@ -19,4 +19,9 @@ Task
 Insights
 
 1. The company experienced substantial product growth, with a 36.33% increase in unique product offerings from 2020 to 2021.
-2. The overall product count has increased from 2020 to 2021 across all segments. The "Accessories" segment witnessed the highest growth with a difference of 34 products. "Notebook" and "Peripheral" segments also saw significant growth with a difference of 16 products each. "Accessories" is the leading segment in terms of product count in both years. "Desktop" has the lowest product count in both years.
+2. Product line is predominantly focused on "Notebooks" with the highest product count of 129
+3. The overall product count has increased from 2020 to 2021 across all segments. The "Accessories" segment witnessed the highest growth with a difference of 34 products.
+4. Flipkart offers the highest average pre invoice discount percentage at 30.83%.
+5. Peak Sales: November 2021 recorded the highest gross sales of 20.46M. Lowest Sales: March 2020 recorded the lowest gross sales of 0.38M.
+6. Sales Decline:  There seems to be a decline in sales from Q1 (7.01M) to Q2 (6.65M), followed by a more significant drop in Q3 (2.08M).
+7. The Retailer channel is the primary revenue generator, contributing a substantial 73.22% to the total gross sales.
