@@ -19,3 +19,4 @@ Task
 Insights
 
 1. The company experienced substantial product growth, with a 36.33% increase in unique product offerings from 2020 to 2021.
+2. The overall product count has increased from 2020 to 2021 across all segments. The "Accessories" segment witnessed the highest growth with a difference of 34 products. "Notebook" and "Peripheral" segments also saw significant growth with a difference of 16 products each. "Accessories" is the leading segment in terms of product count in both years. "Desktop" has the lowest product count in both years.
